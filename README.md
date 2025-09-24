@@ -9,7 +9,7 @@
 - liquibase 4.31.1
 
 
-### open-starter 公告依赖
+### open-starter 公共依赖
 ### open-center-common
 
 #### 基础的工具类
