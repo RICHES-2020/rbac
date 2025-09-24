@@ -40,4 +40,14 @@
 
 
 
+### 系统截图
+
+
+![用户管理](https://github.com/RICHES-2020/rbac/blob/master/.image/user-01.png)
+
+![角色管理](https://github.com/RICHES-2020/rbac/blob/master/.image/role-01.png)
+
+![组织机构管理](https://github.com/RICHES-2020/rbac/blob/master/.image/org-01.png)
+
+![菜单管理](https://github.com/RICHES-2020/rbac/blob/master/.image/menu-01.png)
 
