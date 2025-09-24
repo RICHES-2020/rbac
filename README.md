@@ -51,3 +51,6 @@
 
 ![菜单管理](https://github.com/RICHES-2020/rbac/blob/master/.image/menu-01.png)
 
+
+
+![QQ群](https://github.com/RICHES-2020/rbac/blob/master/.image/qq-01.png)
